@@ -5,7 +5,8 @@ The challenge is to build out this clock application and get it looking as close
 World Time API to set the time based on the visitor's IP adress. This API will also be used for additional data, like the day of the year shown in the expanded state.
 IP Geolocation API to set the city and country underneath the time
 Quotes API to generate random quotes.
-##
+##![preview](https://github.com/niabezara/Clock-app/assets/118462345/9f57cd98-cab0-4010-879a-249bd47a443e)
+
 User stories
 Users should be able to:
 
