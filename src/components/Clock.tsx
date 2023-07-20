@@ -14,7 +14,6 @@ export default function Clock({
   isClicked: boolean;
   HandleClick: () => void;
 }) {
-  console.log(isDaytime);
   return (
     <ClockCard>
       <div>
